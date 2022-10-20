@@ -11,7 +11,7 @@ This repository contains coding developed at [42kocaeli's](https://42kocaeli.com
 	approved in its selection process. The so-called "C Piscine", a 26-day C programming bootcamp,
 	is the last stage in the selection process for becoming a "cadet" (42's student).
 
-[![Photo of a 42saopaulo's lab](42saopaulo.jpg)](https://42kocaeli.com.tr/)
+[![Photo of a 42saopaulo's lab](42kocaeli.jpg)](https://42kocaeli.com.tr/)
 
 ## Skills developed at C Piscine
 

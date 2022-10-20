@@ -1,7 +1,7 @@
 # 42-Piscine
-# C Piscine @ 42saopaulo
+# C Piscine @ 42kocaeli
 
-This repository contains coding developed at [42saopaulo's](https://42kocaeli.com.tr/) C bootcamp (also known as `Piscine`), from 18/nov/2019 to 13/dec/2019.
+This repository contains coding developed at [42kocaeli's](https://42kocaeli.com.tr/) C bootcamp (also known as `Piscine`), from 18/nov/2019 to 13/dec/2019.
 
 ## About 42
 
